@@ -1,3 +1,4 @@
+
 # solve btc310 riddle step 2 and form registration
 
 1)According to Pip, one's must resolve 0.1BTC in order to register to the form.
@@ -19,6 +20,10 @@ change the value of the variable mode in order to execute a different set of dat
 privatekey 0.1BTC : KzkZxdhRGxB7eX4u1skXkfJ7VB8JfPp7Nfos3jiF7PQUNMh2SHDE
 
 seed words : cry buyer grain save vault sign lyrics rhythm music fury horror mansion
+
+"cry" is not correct, becouse
+[22B - 181 = AA (170) not 1АА (426)] - that is very suspicious error!?!?!?
+
 
 other ?????
 
